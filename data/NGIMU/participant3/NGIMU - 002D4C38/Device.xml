@@ -1,0 +1,11 @@
+<Device>
+  <DeviceInformation DeviceName="NGIMU" SerialNumber="002D4C38" FirmwareVersion="v1.5 (May 19 2017 15:24:30)" BootloaderVersion="v1.1 (Sep 28 2016 17:05:48)" HardwareVersion="v1.6 (November 2017)" />
+  <ConnectionInformation ConnectionType="Udp" SendIPAddress="192.168.0.102" SendPort="9000" AdapterIPAddress="192.168.0.103" ReceivePort="8102" AdapterName="Intel(R) 82579LM Gigabit Network Connection" />
+  <TimeStamps First="2020-03-04 13.50.50.446" Last="2020-03-04 13.53.42.574" TimeSpan="00:02:52.128" />
+  <FilesCreated>
+    <File Name="sensors.csv" Messages="34313" />
+    <File Name="quaternion.csv" Messages="34313" />
+    <File Name="rssi.csv" Messages="343" />
+  </FilesCreated>
+  <Statistics BytesReceived="33734700" PacketsReceived="63339" BundlesReceived="516450" MessagesReceived="453204" ReceiveErrors="0" />
+</Device>

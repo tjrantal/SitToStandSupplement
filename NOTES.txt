@@ -1,0 +1,7 @@
+Sit-to-stand transition detection algorithm sample written by Timo Rantalainen tjrantal at gmail dot com 2021. 
+Released with the GPL 3.0 license (https://www.gnu.org/licenses/gpl-3.0.en.html).
+
+S01_ ... script visualises concurrent motion capture-based thigh orientation versus accelerometer-estimated thigh orientation and detected sit-to-stand transitions
+S02_ ... script visualises the tracking of marker trajectories used to define motion capture-based thigh orientation.
+
+Videos and data released with explicit consent from each of the participants.

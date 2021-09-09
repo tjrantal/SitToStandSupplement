@@ -1,0 +1,9 @@
+<Session>
+  <SessionInformation Name="olli" Date="2020-08-20 10.56.19" Duration="00:02:27.550" />
+  <ApplicationInformation ApplicationName="NGIMU Synchronised Network Manager" ApplicationVersion="1.7.6470.40841" ApiVersion="1.7.6470.40840" />
+  <UserInformation UserName="Dell" MachineName="DESKTOP-4RLNV9K" />
+  <Devices>
+    <Device SerialNumber="002D50FB" DeviceName="NGIMU" ConnectionType="Udp" DirectoryName="NGIMU - 002D50FB" />
+    <Device SerialNumber="002D4C38" DeviceName="NGIMU" ConnectionType="Udp" DirectoryName="NGIMU - 002D4C38" />
+  </Devices>
+</Session>

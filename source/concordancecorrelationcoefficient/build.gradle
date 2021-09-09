@@ -1,0 +1,26 @@
+apply plugin: 'java'
+
+repositories {
+}
+
+configurations {
+    // configuration that holds jars to include in the jar
+}
+
+dependencies {
+
+}
+
+
+
+sourceCompatibility = 1.6
+version = '1.0'
+jar {
+	manifest {
+	  attributes	'Implementation-Title': 'concordancecorrelationcoefficient',
+		         	'Implementation-Version': version
+	}
+	from sourceSets.main.output
+	from sourceSets.main.allSource
+}
+
